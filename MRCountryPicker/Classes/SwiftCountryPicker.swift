@@ -62,9 +62,9 @@ open class MRCountryPicker: UIPickerView, UIPickerViewDelegate, UIPickerViewData
     
     open func setCountryByPhoneCode(_ phoneCode: String) {
         var row = 0
-        for index in 0..<countries.count {
-            if countries[index].phoneCode == phoneCode {
-                row = index
+        for index in 0...countries.count {
+            if countries[countries.count - index].phoneCode == phoneCode {
+                row = countries.count - index
                 break
             }
         }
