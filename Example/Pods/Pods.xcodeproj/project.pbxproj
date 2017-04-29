@@ -43,41 +43,41 @@
 
 /* Begin PBXFileReference section */
 		04009873E41657A6F77883A41349050C /* Pods-MRCountryPicker_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-MRCountryPicker_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
-		059B87285C989C187BA3C17EED1C56CA /* Pods_MRCountryPicker_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_MRCountryPicker_Example.framework; path = "Pods-MRCountryPicker_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		059B87285C989C187BA3C17EED1C56CA /* Pods_MRCountryPicker_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MRCountryPicker_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		0CA00E07AD2ABDF1D01B736F2D613337 /* Pods-MRCountryPicker_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-MRCountryPicker_Tests-resources.sh"; sourceTree = "<group>"; };
 		10B6744E0310515A0974CDA76BC3FB18 /* Pods-MRCountryPicker_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-MRCountryPicker_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
-		210DAF9EA1C237FD37269D9A07D1E468 /* Pods-MRCountryPicker_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-MRCountryPicker_Example.modulemap"; sourceTree = "<group>"; };
+		210DAF9EA1C237FD37269D9A07D1E468 /* Pods-MRCountryPicker_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-MRCountryPicker_Example.modulemap"; sourceTree = "<group>"; };
 		213134E1F8B009654AEF71CB95902FE5 /* Pods-MRCountryPicker_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MRCountryPicker_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		295AA2166C23568A668AA740A783D801 /* MRCountryPicker-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "MRCountryPicker-umbrella.h"; sourceTree = "<group>"; };
 		2AA704CD95C7AA77655B73D216623BD7 /* Pods-MRCountryPicker_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-MRCountryPicker_Example-umbrella.h"; sourceTree = "<group>"; };
-		2F1FC76D2C8C4673B84E73EED9D0FC96 /* Pods_MRCountryPicker_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_MRCountryPicker_Tests.framework; path = "Pods-MRCountryPicker_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2F1FC76D2C8C4673B84E73EED9D0FC96 /* Pods_MRCountryPicker_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MRCountryPicker_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		32B8F9DB453B87A6653747C8F8AC682B /* Pods-MRCountryPicker_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-MRCountryPicker_Example-frameworks.sh"; sourceTree = "<group>"; };
 		3BE377392C49A28D40329D70395CC6C7 /* Pods-MRCountryPicker_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-MRCountryPicker_Example-resources.sh"; sourceTree = "<group>"; };
 		48165F5963894D970E4A024166F6925C /* MRCountryPicker-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "MRCountryPicker-prefix.pch"; sourceTree = "<group>"; };
-		4A6A30DFE6955F0F6E2F360535A5E7EF /* Data */ = {isa = PBXFileReference; includeInIndex = 1; path = Data; sourceTree = "<group>"; };
+		4A6A30DFE6955F0F6E2F360535A5E7EF /* Data */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = folder; path = Data; sourceTree = "<group>"; };
 		4D33C504F45B647F8EC7788826CF1FEA /* ResourceBundle-SwiftCountryPicker-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "ResourceBundle-SwiftCountryPicker-Info.plist"; sourceTree = "<group>"; };
-		528581C480DED5C37A6B88ACCA5701D4 /* MRCountryPicker.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = MRCountryPicker.framework; path = MRCountryPicker.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		528581C480DED5C37A6B88ACCA5701D4 /* MRCountryPicker.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = MRCountryPicker.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		59083B9F2067BAF4857800D9A9CFED58 /* MRCountryPicker-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "MRCountryPicker-dummy.m"; sourceTree = "<group>"; };
 		5EE642E0B52449877BDFC61B075E8E62 /* SwiftCountryPicker.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = SwiftCountryPicker.swift; sourceTree = "<group>"; };
 		691DB15FC849F5E583951A0F1347F597 /* Pods-MRCountryPicker_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MRCountryPicker_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		71332177AFB38E25E77585484901F550 /* Pods-MRCountryPicker_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-MRCountryPicker_Tests.modulemap"; sourceTree = "<group>"; };
-		80FD35C0FAF20B89BEA4BC8105D07FC1 /* MRCountryPicker.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = MRCountryPicker.modulemap; sourceTree = "<group>"; };
+		71332177AFB38E25E77585484901F550 /* Pods-MRCountryPicker_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-MRCountryPicker_Tests.modulemap"; sourceTree = "<group>"; };
+		80FD35C0FAF20B89BEA4BC8105D07FC1 /* MRCountryPicker.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = MRCountryPicker.modulemap; sourceTree = "<group>"; };
 		8AB45AEFCBDB50568812046752A2D2F5 /* SwiftCountryView.xib */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file.xib; path = SwiftCountryView.xib; sourceTree = "<group>"; };
-		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		9B59756E935B9D145AFAA9766EF636F4 /* Pods-MRCountryPicker_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MRCountryPicker_Example.release.xcconfig"; sourceTree = "<group>"; };
 		B016EA25C7A71EA0A5A3348565C0A8D5 /* Pods-MRCountryPicker_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-MRCountryPicker_Tests-frameworks.sh"; sourceTree = "<group>"; };
 		B3980B4DE4718B55F25B61D2378B8B8D /* Pods-MRCountryPicker_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-MRCountryPicker_Tests-umbrella.h"; sourceTree = "<group>"; };
 		B709CCE1C3954A0C5A2C0A133D7E5ABA /* Pods-MRCountryPicker_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-MRCountryPicker_Example-dummy.m"; sourceTree = "<group>"; };
 		C23CFCD356B69BC4E53EAFE4B8FBE4B9 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C5F48B8A4E559781ADECAF9B2DEB1BA5 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		C78BAD6712CB11C8C227A76CAC0E8D38 /* Images */ = {isa = PBXFileReference; includeInIndex = 1; path = Images; sourceTree = "<group>"; };
+		C78BAD6712CB11C8C227A76CAC0E8D38 /* Images */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = folder; path = Images; sourceTree = "<group>"; };
 		C8BDD185EEF4D183E1C535AB8AABA3B5 /* Pods-MRCountryPicker_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-MRCountryPicker_Tests-dummy.m"; sourceTree = "<group>"; };
 		C927AFCA9F4C1CBE309DB574FE06E00B /* MRCountryPicker.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = MRCountryPicker.xcconfig; sourceTree = "<group>"; };
 		CA15CBAC170CD9D58350C1665B7DF581 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CBB3DE36805AF21409EC968A9691732F /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		D0298FC92B81EB8953D94406F595A0EC /* SwiftCountryView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = SwiftCountryView.swift; sourceTree = "<group>"; };
 		D0DD6BF630D3F716B3B93B6F80D9DB13 /* Pods-MRCountryPicker_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-MRCountryPicker_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
-		D8B0806142D17BDD04EF0B27CA8FAC2D /* SwiftCountryPicker.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = SwiftCountryPicker.bundle; path = SwiftCountryPicker.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
+		D8B0806142D17BDD04EF0B27CA8FAC2D /* SwiftCountryPicker.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftCountryPicker.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
 		E24635AED83718A941AF66809B31A05E /* Pods-MRCountryPicker_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-MRCountryPicker_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		E2B8A26D1737A4C6DAE18493A3A1A058 /* Pods-MRCountryPicker_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MRCountryPicker_Example.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -138,7 +138,6 @@
 				4A6A30DFE6955F0F6E2F360535A5E7EF /* Data */,
 				C78BAD6712CB11C8C227A76CAC0E8D38 /* Images */,
 			);
-			name = SwiftCountryPicker.bundle;
 			path = SwiftCountryPicker.bundle;
 			sourceTree = "<group>";
 		};
@@ -158,7 +157,6 @@
 			children = (
 				E6EE16BA0207114EBA0E9225609DC1F9 /* Classes */,
 			);
-			name = MRCountryPicker;
 			path = MRCountryPicker;
 			sourceTree = "<group>";
 		};
@@ -231,7 +229,6 @@
 			children = (
 				F2CAE7198B3D6086E7664CCADEA004D8 /* Assets */,
 			);
-			name = MRCountryPicker;
 			path = MRCountryPicker;
 			sourceTree = "<group>";
 		};
@@ -277,7 +274,6 @@
 				D0298FC92B81EB8953D94406F595A0EC /* SwiftCountryView.swift */,
 				8AB45AEFCBDB50568812046752A2D2F5 /* SwiftCountryView.xib */,
 			);
-			name = Classes;
 			path = Classes;
 			sourceTree = "<group>";
 		};
@@ -286,7 +282,6 @@
 			children = (
 				0C11FB046956ADD97E774A2C43EA5D27 /* SwiftCountryPicker.bundle */,
 			);
-			name = Assets;
 			path = Assets;
 			sourceTree = "<group>";
 		};
@@ -650,6 +645,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = C927AFCA9F4C1CBE309DB574FE06E00B /* MRCountryPicker.xcconfig */;
 			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
@@ -788,6 +784,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = C927AFCA9F4C1CBE309DB574FE06E00B /* MRCountryPicker.xcconfig */;
 			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
