@@ -66,7 +66,7 @@ open class MRCountryPicker: UIPickerView, UIPickerViewDelegate, UIPickerViewData
     }
     
     @objc open func setCountryByPhoneCode(_ phoneCode: String) {
-        for index in 0..<countries.count {
+        for index in stride(from: (countries.count-1), to: 0, by: -1) {
             if countries[index].phoneCode == phoneCode {
                 return self.setCountryByRow(row: index)
             }
@@ -74,7 +74,7 @@ open class MRCountryPicker: UIPickerView, UIPickerViewDelegate, UIPickerViewData
     }
 
     open func setCountryByName(_ name: String) {
-        for index in stride(from: (countries.count-1), to: 0, by: -1) {
+        for index in 0..<countries.count {
             if countries[index].name == name {
                 return self.setCountryByRow(row: index)
             }
