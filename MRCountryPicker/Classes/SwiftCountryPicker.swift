@@ -74,7 +74,7 @@ open class MRCountryPicker: UIPickerView, UIPickerViewDelegate, UIPickerViewData
     }
 
     open func setCountryByName(_ name: String) {
-        for index in 0..<countries.count {
+        for index in stride(from: (countries.count-1), to: 0, by: -1) {
             if countries[index].name == name {
                 return self.setCountryByRow(row: index)
             }
